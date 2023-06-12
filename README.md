@@ -13,7 +13,7 @@ The functions contained in the package are tools that offer a deeper understandi
 
 The package is available on GitHub and can be installed using the remotes library with the following command:
 
-remotes::install_github("https://github.com/marazf/scr2")
+remotes::install_github("https://github.com/Project-scr2/scr2")
 
 The "devtools" package from CRAN is necessary to install this package and can be installed with:
 
