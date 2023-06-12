@@ -3,7 +3,7 @@ Signs of Consecutive Returns
 
 # Introduction
 
-Signs of Consecutive Returns (scr) is a collection of five functions that are designed to analyse several aspects of stock market behaviour.
+Signs of Consecutive Returns (scr2) is a collection of five functions that are designed to analyse several aspects of stock market behaviour.
 The highlight of this package is being able to identify consecutive returns of the same sign that can help you analyse the historical patterns of a specific stock over a selected time horizon. 
 
 The functions contained in the package are tools that offer a deeper understanding of a stock's historical volatility and provide insights on future trends.
