@@ -21,7 +21,7 @@ install.packages("devtools")
 
 # Dependencies
 
-scr2 makes use of $quantmod$, $xts$ and $zoo$, which are available on CRAN and can be installed with
+scr2 makes use of $quantmod$, $stats$, $xts$ and $zoo$, which are available on CRAN and can be installed with
 install.packages().
 
 # The functions
